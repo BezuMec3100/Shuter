@@ -14,6 +14,8 @@ window.blit(background, (0, 0))
 mixer.music.load("space.ogg")
 clock = time.Clock()
 
+#коментарий
+
 FPS = 60
 run = True
 lost = 0
